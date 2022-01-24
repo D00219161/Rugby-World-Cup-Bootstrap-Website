@@ -1,0 +1,50 @@
+[
+  {
+    "name"     :  "Sapporo Dome",
+    "location" : [43.0150, 141.4100]
+  },
+  {
+    "name"     : "Kamaishi Recovery Memorial Stadium",
+    "location" : [39.1940, 141.5332]
+  },
+  {
+    "name"     : "Kumagaya Rugby Stadium",
+    "location" : [36.1683, 139.4024]
+  },
+  {
+    "name"     : "Tokyo Stadium",
+    "location" : [35.6643, 139.5272]
+  },
+  {
+    "name"     : "International Stadium Yokohama",
+    "location" : [35.5099, 139.6064]
+  },
+  {
+    "name"     : "Shizuoka Stadium Ecopa",
+    "location" : [34.7435, 137.9708]
+  },
+  {
+    "name"     : "City Of Toyota Stadium",
+    "location" : [35.0846, 137.1709]
+  },
+  {
+    "name"     : "Hanazono Rugby Stadium",
+    "location" : [34.6690, 135.6263]
+  },
+  {
+    "name"     : "Kobe Misaki Stadium",
+    "location" : [34.6568, 135.1696]
+  },
+  {
+    "name"     : "Fukuoka Hakatanomori Stadium",
+    "location" : [33.5860, 130.4609]
+  },
+  {
+    "name"     : "Kumamoto Stadium",
+    "location" : [32.8368, 130.8001]
+  },
+  {
+    "name"     : "Oita Stadium",
+    "location" : [33.122, 131.3927]
+  }
+]
